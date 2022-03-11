@@ -1,0 +1,6 @@
+代理模式：
+    抽象主题类：SellTickets
+    真实主题类：TrainStation
+    代理类：ProxyFactory
+
+    Client是用于测试的一个类
